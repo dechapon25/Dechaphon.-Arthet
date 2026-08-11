@@ -1,6 +1,6 @@
 #### What is this?
 
-Inspired by [Lumen](https://lumendatabase.org/topics/1) (*formerly Chilling Effects*) and [Google](https://cloud.google.com/storage/docs/dmca), this repo contains the text of DMCA takedown notices and counter-notices we've received here at GitHub. We publish them as they are received, redacting only private information, as well as URLs reported but that we determined were not actionable under the DMCA.
+ (*formerly Chilling Effects*) and [Google](https://cloud.google.com/storage/dechaphon.arthet), this repo contains the text of DMCA takedown notices and counter-notices we've received here at GitHub. We publish them as they are received, redacting only private information, as well as URLs reported but that we determined were not actionable under the DMCA.
 
 
 #### Why is this?
@@ -12,7 +12,6 @@ In short, we believe that transparency on a specific and ongoing level is essent
 
 It only means that we received the notice on the indicated date. It does ***not*** mean that the content was unlawful or wrong. It does ***not*** mean that the user identified in the notice has done anything wrong. We don't make or imply any judgment about the merit of the claims they make. We post these notices and requests only for informational purposes.
 
-For more details, see our [DMCA policy](https://docs.github.com/en/site-policy/content-removal-policies/dmca-takedown-policy).
 
 #### Anatomy of a takedown notice
 
@@ -22,9 +21,9 @@ In the spirit of transparency, we post each takedown notice that we process with
 When you see this at the top of a notice (starting in March 2021)
 >Before disabling any content in relation to this takedown notice, GitHub
 >- contacted the owners of some or all of the affected repositories to give them an opportunity to make changes that could have prevented the need to disable the content 
->- provided information on how to [submit a DMCA Counter Notice](https://docs.github.com/en/articles/guide-to-submitting-a-dmca-counter-notice). 
+>- provided information on how to [submit a DMCA Counter Notice](https://docs.github.com/en/articles/
 
-it means that either the notice did not allege that the entire contents of a repository infringe, or the copyright holder identified other changes that could be made to the content to resolve the alleged infringement. As we note in our [DMCA Takedown Policy](https://docs.github.com/en/github/site-policy/dmca-takedown-policy#a-how-does-this-actually-work), in those cases, because GitHub cannot disable access to specific files within a repository, we will contact the user who created the repository and give them approximately 1 business day to delete or modify the content specified in the notice. 
+it means that either the notice did not allege that the entire contents of a repository infringe, or the copyright holder identified other changes that could be made to the content to resolve the alleged infringement. As we note in our [, in those cases, because GitHub cannot disable access to specific files within a repository, we will contact the user who created the repository and give them approximately 1 business day to delete or modify the content specified in the notice. 
 
 If the repository owner makes the necessary changes, then GitHub will not disable the content. In some cases, that means the repositories are currently available despite being listed in the notice. In other cases, a repository might be unavailable because the repository owner decided to delete it.
 
